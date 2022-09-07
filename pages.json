@@ -29,6 +29,13 @@
 
     }
   ],
+  "subPackages": [{
+    "root": "subpkg",
+    "name": "goods",
+    "pages": [{
+      "path": "good_detail/good_detail"
+    }]
+  }],
   "tabBar": {
     "selectedColor": "#c00000",
     "list": [{
